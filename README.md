@@ -1,6 +1,7 @@
 # CouseSoloLearnCompleted
 First exercise, SoloLearn course 100% completed! 
-Images: 
+Images:
+
 1: COURSE COMPLETED:
 [![CURSO-COMPLETO.png](https://i.postimg.cc/T3666k4W/CURSO-COMPLETO.png)](https://postimg.cc/KRJV75FZ)
 2: JAVA 100%:
